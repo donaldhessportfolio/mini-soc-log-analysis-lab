@@ -3,6 +3,8 @@
 ## Overview
 This project simulates a small SOC-style workflow using Linux and Python to analyze authentication logs and identify suspicious SSH activity.
 
+**Technologies:** Linux, Python, Log Analysis, Threat Detection
+
 ## Objective
 Analyze `/var/log/auth.log` to detect repeated authentication failures and extract suspicious IP addresses.
 
