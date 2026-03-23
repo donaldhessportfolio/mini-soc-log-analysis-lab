@@ -63,7 +63,7 @@ for ip, count in counter.items():
 
 ### Script Output
 ![Output](screenshots/script-output.png)
-
+This output highlights IP addresses associated with repeated suspicious authentication attempts identified within system logs.
 ## Example Output
 ```
 127.0.0.1 - 14 suspicious attempts
